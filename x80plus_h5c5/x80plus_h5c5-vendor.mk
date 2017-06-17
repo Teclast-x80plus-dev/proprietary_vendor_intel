@@ -23,7 +23,7 @@ PRODUCT_COPY_FILES += \
     vendor/intel/x80plus_h5c5/proprietary/etc/parameter-framework/Settings/Audio/AudioConfigurableDomains.xml:system/etc/parameter-framework/Settings/Audio/AudioConfigurableDomains.xml \
     vendor/intel/x80plus_h5c5/proprietary/etc/parameter-framework/Settings/Route/RouteConfigurableDomains.xml:system/etc/parameter-framework/Settings/Route/RouteConfigurableDomains.xml \
     vendor/intel/x80plus_h5c5/proprietary/etc/parameter-framework/Structure/Audio/AudioClass.xml:system/etc/parameter-framework/Structure/Audio/AudioClass.xml \
-    vendor/intel/x80plus_h5c5/proprietary/etc/parameter-framework/Structure/Audio/NUVOTON_NAU88L24Subsystem.xml:system/etc/parameter-framework/Structure/Audio/Realtek5645Subsystem.xml \
+    vendor/intel/x80plus_h5c5/proprietary/etc/parameter-framework/Structure/Audio/Realtek5645Subsystem.xml:system/etc/parameter-framework/Structure/Audio/Realtek5645Subsystem.xml \
     vendor/intel/x80plus_h5c5/proprietary/etc/parameter-framework/Structure/Audio/SstSubsystem.xml:system/etc/parameter-framework/Structure/Audio/SstSubsystem.xml \
     vendor/intel/x80plus_h5c5/proprietary/etc/parameter-framework/Structure/Route/RouteSubsystem.xml:system/etc/parameter-framework/Structure/Route/RouteSubsystem.xml \
     vendor/intel/x80plus_h5c5/proprietary/etc/sensor_hal_config_default.xml:system/etc/sensor_hal_config_default.xml \
